@@ -8,3 +8,4 @@ columnmean <- function(y,removeNA=TRUE){
     # returns means bc last expression in function
     means
 }
+
